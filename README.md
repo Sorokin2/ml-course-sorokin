@@ -12,7 +12,7 @@
 | 1 | module-1-titanic | EDA + бинарная классификация | ✅ Готово | [Открыть](./module-1-titanic/) |
 | 2 | module-2-house-prices | Предобработка + регрессия | ✅ Готово | [Открыть](./module-2-house-prices/) |
 | 3 | module-3-churn | Ансамблевые методы (Customer Churn) | ✅ Готово | [Открыть](./module-3-churn/) |
-| 4 | module-4-... | ... | ⏳ Ожидается | — |
+| 4 | module-4-features | Инженерия признаков (Online Shoppers) | ✅ Готово | [Открыть](./module-4-features/) |
 | 5 | module-5-... | ... | ⏳ Ожидается | — |
 | 6 | module-6-... | ... | ⏳ Ожидается | — |
 | 7 | module-7-... | ... | ⏳ Ожидается | — |
@@ -24,3 +24,4 @@
 | 1 | Классификация | Random Forest | ROC-AUC = 0.8498 | 2026-09-30 |
 | 2 | Регрессия | XGBoost | R² = 0.8962 (MAE = 0.0789) | 2026-10-19 |
 | 3 | Классификация (Churn) | CatBoost (Optuna) | ROC-AUC = 0.8461 | 2026-10-26 |
+| 4 | Классификация (Online Shoppers) | CatBoost (Optuna) | ROC-AUC = 0.9316 | 2026-11-02 |
